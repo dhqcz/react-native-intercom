@@ -2,7 +2,7 @@ repo_name: dhqcz/react-native-intercom
 report_id: 6e0ebb30d0e7ea0dc86d374d85c24348
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T14:19:54+00:00'
+timestamp: '2024-02-29T19:46:46+00:00'
 requested_by: browniefed
 provider: github
 branch: master
@@ -53,7 +53,7 @@ tools:
   detection_source_url: https://github.com/dhqcz/react-native-intercom
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
